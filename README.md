@@ -1,4 +1,5 @@
-I’m a PhD student in Lille, currently diving deep into the fascinating world of phylogenetics 🌿🔬.\n
+I’m a PhD student in Lille, currently diving deep into the fascinating world of phylogenetics 🌿🔬.
+
 I love working with Python 🐍 to analyze evolutionary relationships and bring data to life!
 
 🚀 Passionate about coding, research, and solving complex biological puzzles.
